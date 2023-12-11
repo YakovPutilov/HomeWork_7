@@ -13,7 +13,7 @@ void NaturalNumbers(int n, int m){
         Console.Write(m + " ");
     }
     else if(m < n){
-        Console.WriteLine("N must be graiter then M");
+        Console.WriteLine("M must be graiter then N");
     }    
 }
 
